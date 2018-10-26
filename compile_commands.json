@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/ahussein/Documents/sourceCode/CPP/Graphics/qtquickmvvmexample/build/Release",
+  "command": "/usr/bin/clang++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I../../qmlapplicationviewer -I../../ViewModel -I../../Model -isystem /usr/include/qt -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets  -Weverything -fcolor-diagnostics -g   -fPIC -std=gnu++11 -o CMakeFiles/MVVM_Example.dir/main.cpp.o -c /home/ahussein/Documents/sourceCode/CPP/Graphics/qtquickmvvmexample/main.cpp",
+  "file": "/home/ahussein/Documents/sourceCode/CPP/Graphics/qtquickmvvmexample/main.cpp"
+},
+
+{
+  "directory": "/home/ahussein/Documents/sourceCode/CPP/Graphics/qtquickmvvmexample/build/Release",
+  "command": "/usr/bin/clang++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I../../qmlapplicationviewer -I../../ViewModel -I../../Model -isystem /usr/include/qt -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets  -Weverything -fcolor-diagnostics -g   -fPIC -std=gnu++11 -o CMakeFiles/MVVM_Example.dir/qmlapplicationviewer/qmlapplicationviewer.cpp.o -c /home/ahussein/Documents/sourceCode/CPP/Graphics/qtquickmvvmexample/qmlapplicationviewer/qmlapplicationviewer.cpp",
+  "file": "/home/ahussein/Documents/sourceCode/CPP/Graphics/qtquickmvvmexample/qmlapplicationviewer/qmlapplicationviewer.cpp"
+}
+]

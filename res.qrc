@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/QtQuickMvvmExample/MainView.qml</file>
+        <file>qml/QtQuickMvvmExample/Controls/Button.qml</file>
+        <file>qml/QtQuickMvvmExample/Controls/TextBox.qml</file>
+    </qresource>
+</RCC>
